@@ -16,7 +16,7 @@ This font is completely free for everyone to use.
 - Basic punctuation
 
 ## 📥 Download
-https://bit.ly/12Age_Geo_Font
+[Download 12Age Geo](./12AgeGeo.otf)
 
 ## 📄 License
 This font is licensed under the SIL Open Font License 1.1 (OFL).
